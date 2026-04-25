@@ -2,40 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/categories/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-04-24T15:35:36+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://yota5555yota-lab.github.io/Materials-Strength/categories/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yota5555yota-lab.github.io/Materials-Strength/en/categories/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/</loc>
+    <loc>http://localhost:1313/en/members/</loc>
+    <lastmod>2026-04-24T15:35:36+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://yota5555yota-lab.github.io/Materials-Strength/"
+                href="http://localhost:1313/members/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yota5555yota-lab.github.io/Materials-Strength/en/"
+                href="http://localhost:1313/en/members/"
                 />
   </url><url>
-    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/tags/</loc>
+    <loc>http://localhost:1313/en/publications/</loc>
+    <lastmod>2026-04-24T15:35:36+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://yota5555yota-lab.github.io/Materials-Strength/tags/"
+                href="http://localhost:1313/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yota5555yota-lab.github.io/Materials-Strength/en/tags/"
+                href="http://localhost:1313/en/publications/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/research/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/access/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

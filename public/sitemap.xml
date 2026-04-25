@@ -2,14 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://yota5555yota-lab.github.io/Materials-Strength/ja/sitemap.xml</loc>
+    <loc>http://localhost:1313/ja/sitemap.xml</loc>
     
-      <lastmod>2026-04-24T15:35:57+09:00</lastmod>
+      <lastmod>2026-04-24T15:35:36+09:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2026-04-24T15:35:36+09:00</lastmod>
     
   </sitemap>
   
