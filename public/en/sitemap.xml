@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/categories/"
+                href="https://yota5555yota-lab.github.io/Materials-Strength/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://yota5555yota-lab.github.io/Materials-Strength/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/"
+                href="https://yota5555yota-lab.github.io/Materials-Strength/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://yota5555yota-lab.github.io/Materials-Strength/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://yota5555yota-lab.github.io/Materials-Strength/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/tags/"
+                href="https://yota5555yota-lab.github.io/Materials-Strength/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://yota5555yota-lab.github.io/Materials-Strength/en/tags/"
                 />
   </url>
 </urlset>
