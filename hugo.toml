@@ -19,27 +19,27 @@ defaultContentLanguageInSubdir = false
 
     [[languages.ja.menu.main]]
     name = "研究内容"
-    url = "/research/"
+    url = "research/"
     weight = 2
 
     [[languages.ja.menu.main]]
     name = "メンバー"
-    url = "/members/"
+    url = "members/"
     weight = 3
 
     [[languages.ja.menu.main]]
     name = "研究実績"
-    url = "/publications/"
+    url = "publications/"
     weight = 4
 
     [[languages.ja.menu.main]]
     name = "アクセス"
-    url = "/access/"
+    url = "access/"
     weight = 5
 
     [[languages.ja.menu.main]]
     name = "お問い合わせ"
-    url = "/contact/"
+    url = "contact/"
     weight = 6
 
   [languages.en]
