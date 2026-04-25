@@ -9,9 +9,9 @@ draft = false
   <img src="/images/hero/004.png" class="slide">
 </div>
 
-# 材料強度学研究室
+# Materials Strength Science Laboratory
 
-この研究室では〇〇を研究しています。
+This laboratory studies XX.
 
-## 研究分野
-〇〇
+## Research Field
+XX

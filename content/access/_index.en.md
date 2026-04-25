@@ -3,9 +3,9 @@ title: "Access"
 draft: false
 ---
 
-# アクセス
+# Access
 
-## 住所
+## address
 
 〇〇大学 〇〇キャンパス  
 〒123-4567  
