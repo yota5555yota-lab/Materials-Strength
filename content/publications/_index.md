@@ -4,7 +4,6 @@ draft: false
 title: "研究実績"
 ---
 
-# 研究実績
 
 
 
@@ -25,7 +24,7 @@ title: "研究実績"
 
 <div class="pub-item">
   <div class="pub-text">
-    <b>ロボット制御に関する研究</b><br>
+    <b>○○に関する研究</b><br>
     山田太郎<br>
     IEEE ICMA (Singapore)
   </div>
